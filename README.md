@@ -1,1 +1,2 @@
 # zed.config
+zed settings
